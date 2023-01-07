@@ -16,8 +16,12 @@ The colour coding is as follows: blue represents a C site that was C in the prec
 
 This simulation is started with a single D at the centre of a 99 x 99 square-lattice world of C with fixed boundary conditions. Again 1.8 < b < 2. This generates an (almost) infinite sequence of different patterns.
 
-Please wait while the GIFs are loading.
+<h3> Please wait while the GIFs are loading. </h3>
 <p align="center">
 <img height="" width="" src="https://github.com/Gids-Github/images/blob/main/75esdo.gif" alt="">
+  Fast scrolling (speed 50 mls), to see in process
 <img Align="center" height="" width="" src="https://github.com/Gids-Github/images/blob/main/75es74.gif" alt="">
+  Slow scrolling (speed 500 mls), to see each "caleidoscope"
 </p>
+
+Speacial thanks to the authors of the article and for talented researcher and engineer [Nikolaos Giakoumoglou](https://github.com/giakou4)

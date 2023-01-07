@@ -18,10 +18,10 @@ This simulation is started with a single D at the centre of a 99 x 99 square-lat
 
 <h3> Please wait while the GIFs are loading. </h3>
 <p align="center">
-<img height="" width="" src="https://github.com/Gids-Github/images/blob/main/75esdo.gif" alt="">
-  Fast scrolling (speed 50 mls), to see in process
-<img Align="center" height="" width="" src="https://github.com/Gids-Github/images/blob/main/75es74.gif" alt="">
-  Slow scrolling (speed 500 mls), to see each "caleidoscope"
+<img height="" width="" src="https://github.com/Gids-Github/images/blob/main/75esdo.gif" alt=""></p>
+<p align="center">  Fast scrolling (speed 50 mls), to see in process </p>
+<p align="center"><img Align="center" height="" width="" src="https://github.com/Gids-Github/images/blob/main/75es74.gif" alt=""></p>
+ <p align="center"> Slow scrolling (speed 500 mls), to see each "caleidoscope"</p>
 </p>
 
 Speacial thanks to the authors of the article and for talented researcher and engineer [Nikolaos Giakoumoglou](https://github.com/giakou4)

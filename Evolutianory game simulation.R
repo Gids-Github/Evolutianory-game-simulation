@@ -179,3 +179,4 @@ ggplot(df, aes(x = x, y = y, fill = factor(value))) +   #https://statisticsglobe
 dataframe_row=dataframe_str_temp
 
 
+вапва

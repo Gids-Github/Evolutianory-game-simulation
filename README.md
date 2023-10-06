@@ -25,3 +25,6 @@ This simulation is started with a single D at the centre of a 99 x 99 square-lat
 </p>
 
 Speacial thanks to the authors of the article and for talented researcher and engineer [Nikolaos Giakoumoglou](https://github.com/giakou4)
+
+
+Changes in my branch
